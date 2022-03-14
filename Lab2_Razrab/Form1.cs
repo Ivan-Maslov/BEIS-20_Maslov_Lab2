@@ -18,30 +18,30 @@ namespace Lab2_Razrab
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            double a = Double.Parse(textBox1.Text);
-            double b = Double.Parse(textBox2.Text);
+            double a = double.Parse(textBox1.Text);
+            double b = double.Parse(textBox2.Text);
             textBox3.Text = Convert.ToString(a + b);
 
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            double a = Double.Parse(textBox1.Text);
-            double b = Double.Parse(textBox2.Text);
+            double a = double.Parse(textBox1.Text);
+            double b = double.Parse(textBox2.Text);
             textBox3.Text = Convert.ToString(a - b);
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            double a = Double.Parse(textBox1.Text);
-            double b = Double.Parse(textBox2.Text);
+            double a = double.Parse(textBox1.Text);
+            double b = double.Parse(textBox2.Text);
             textBox3.Text = Convert.ToString(a * b);
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            double a = Double.Parse(textBox1.Text);
-            double b = Double.Parse(textBox2.Text);
+            double a = double.Parse(textBox1.Text);
+            double b = double.Parse(textBox2.Text);
             textBox3.Text = Convert.ToString(a / b);
         }
 
