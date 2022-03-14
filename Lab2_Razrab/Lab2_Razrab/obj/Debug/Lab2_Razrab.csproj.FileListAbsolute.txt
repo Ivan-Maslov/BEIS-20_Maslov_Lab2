@@ -1,0 +1,10 @@
+D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\bin\Debug\Lab2_Razrab.exe.config
+D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\bin\Debug\Lab2_Razrab.exe
+D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\bin\Debug\Lab2_Razrab.pdb
+D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\obj\Debug\Lab2_Razrab.csprojAssemblyReference.cache
+D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\obj\Debug\Lab2_Razrab.Form1.resources
+D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\obj\Debug\Lab2_Razrab.Properties.Resources.resources
+D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\obj\Debug\Lab2_Razrab.csproj.GenerateResource.cache
+D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\obj\Debug\Lab2_Razrab.csproj.CoreCompileInputs.cache
+D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\obj\Debug\Lab2_Razrab.exe
+D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\obj\Debug\Lab2_Razrab.pdb
